@@ -1,0 +1,4 @@
+rootProject.name = 'kafka-partition-aware'
+include 'producer-service'
+include 'consumer-service'
+
